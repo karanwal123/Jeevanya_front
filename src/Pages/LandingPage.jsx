@@ -126,7 +126,7 @@ const LandingPage = () => {
           initial="hidden"
         >
           <StaircaseText
-            text="VAIDYAMITRA"
+            text="JEEVANYA"
             className="font-bold text-[#c94a4a] text-8xl mb-4 mt-5 space-x-2"
           />
         </motion.div>
